@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "latin";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/regular/latin.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/regular/latin.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/regular/latin.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/regular/latin.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/regular/latin.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "latin";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/bold/latin.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/bold/latin.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/bold/latin.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/bold/latin.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/latin/bold/latin.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

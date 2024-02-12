@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "monda";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/regular/monda.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/regular/monda.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/regular/monda.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/regular/monda.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/regular/monda.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "monda";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/bold/monda.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/bold/monda.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/bold/monda.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/bold/monda.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/monda/bold/monda.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

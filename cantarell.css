@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "cantarell";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/regular/cantarell.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/regular/cantarell.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/regular/cantarell.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/regular/cantarell.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/regular/cantarell.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "cantarell";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/bold/cantarell.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/bold/cantarell.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/bold/cantarell.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/bold/cantarell.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/cantarell/bold/cantarell.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

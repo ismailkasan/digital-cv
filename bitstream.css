@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "bitstream";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/regular/bitstream.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/regular/bitstream.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/regular/bitstream.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/regular/bitstream.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/regular/bitstream.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "bitstream";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/bold/bitstream.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/bold/bitstream.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/bold/bitstream.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/bold/bitstream.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/bitstream/bold/bitstream.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

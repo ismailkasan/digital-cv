@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "lora";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/regular/lora.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/regular/lora.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/regular/lora.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/regular/lora.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/regular/lora.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "lora";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/bold/lora.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/bold/lora.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/bold/lora.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/bold/lora.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/lora/bold/lora.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

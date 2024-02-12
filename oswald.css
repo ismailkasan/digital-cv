@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "oswald";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/regular/oswald.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/regular/oswald.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/regular/oswald.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/regular/oswald.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/regular/oswald.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "oswald";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/bold/oswald.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/bold/oswald.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/bold/oswald.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/bold/oswald.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/oswald/bold/oswald.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

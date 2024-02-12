@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "dosis";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/regular/dosis.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/regular/dosis.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/regular/dosis.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/regular/dosis.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/regular/dosis.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "dosis";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/bold/dosis.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/bold/dosis.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/bold/dosis.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/bold/dosis.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/dosis/bold/dosis.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

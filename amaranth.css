@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "amaranth";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/regular/amaranth.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/regular/amaranth.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/regular/amaranth.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/regular/amaranth.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/regular/amaranth.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "amaranth";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/bold/amaranth.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/bold/amaranth.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/bold/amaranth.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/bold/amaranth.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/amaranth/bold/amaranth.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

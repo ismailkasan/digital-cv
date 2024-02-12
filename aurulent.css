@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "aurulent";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/regular/aurulent.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/regular/aurulent.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/regular/aurulent.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/regular/aurulent.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/regular/aurulent.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "aurulent";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/bold/aurulent.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/bold/aurulent.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/bold/aurulent.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/bold/aurulent.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/aurulent/bold/aurulent.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

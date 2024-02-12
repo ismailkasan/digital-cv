@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "ubuntu";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/regular/ubuntu.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/regular/ubuntu.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/regular/ubuntu.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/regular/ubuntu.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/regular/ubuntu.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "ubuntu";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/bold/ubuntu.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/bold/ubuntu.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/bold/ubuntu.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/bold/ubuntu.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/ubuntu/bold/ubuntu.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

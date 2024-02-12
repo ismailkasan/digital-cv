@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "raleway";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/regular/raleway.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/regular/raleway.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/regular/raleway.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/regular/raleway.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/regular/raleway.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "raleway";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/bold/raleway.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/bold/raleway.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/bold/raleway.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/bold/raleway.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/raleway/bold/raleway.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

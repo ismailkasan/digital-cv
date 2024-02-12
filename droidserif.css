@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "droidserif";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/regular/droidserif.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/regular/droidserif.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/regular/droidserif.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/regular/droidserif.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/regular/droidserif.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "droidserif";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/bold/droidserif.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/bold/droidserif.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/bold/droidserif.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/bold/droidserif.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/droidserif/bold/droidserif.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

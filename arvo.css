@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "arvo";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/regular/arvo.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/regular/arvo.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/regular/arvo.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/regular/arvo.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/regular/arvo.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "arvo";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/bold/arvo.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/bold/arvo.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/bold/arvo.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/bold/arvo.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/arvo/bold/arvo.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

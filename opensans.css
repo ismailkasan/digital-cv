@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "opensans";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/regular/opensans.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/regular/opensans.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/regular/opensans.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/regular/opensans.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/regular/opensans.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "opensans";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/bold/opensans.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/bold/opensans.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/bold/opensans.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/bold/opensans.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/opensans/bold/opensans.svg#svgFontName') format('svg');
+  font-weight: 700;
+}

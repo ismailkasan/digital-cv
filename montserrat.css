@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "montserrat";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/regular/montserrat.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/regular/montserrat.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/regular/montserrat.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/regular/montserrat.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/regular/montserrat.svg#svgFontName') format('svg');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "montserrat";
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/bold/montserrat.eot');
+  src: url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/bold/montserrat.eot?#iefix') format('embedded-opentype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/bold/montserrat.woff') format('woff'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/bold/montserrat.ttf')  format('truetype'),
+  url('https://d2q9f19mcrh9o0.cloudfront.net/fonts/montserrat/bold/montserrat.svg#svgFontName') format('svg');
+  font-weight: 700;
+}
